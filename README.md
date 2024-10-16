@@ -1,5 +1,4 @@
-# Hello! I'm [Your Name] 👋
-
+# Hello! I'm Sagar
 ## 👨‍🎓 About Me
 I’m a student from Nepal currently pursuing my engineering degree in Bangalore, India. I have a strong interest in the software industry, particularly in full-stack development and data science.
 
