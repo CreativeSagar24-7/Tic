@@ -10,11 +10,6 @@ I’m a student from Nepal currently pursuing my engineering degree in Bangalore
 ## 💡 Principles & Philosophy
 I believe in continuous learning and growth. I strive to maintain a balance between my studies, personal interests, and the principles I hold dear. 
 
-## 📫 Connect with Me
-Feel free to reach out to me through the following platforms:
--[LinkedIn] https://www.linkedin.com/in/sagar-khanal-sharma-193251333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- [Email] sharmasagar0009@gmail.com
-
 ## 🔧 Technologies & Tools
 - Languages:C,C++,Java(learning)
 - Tools: Git, VSCode
