@@ -12,14 +12,12 @@ I believe in continuous learning and growth. I strive to maintain a balance betw
 
 ## 📫 Connect with Me
 Feel free to reach out to me through the following platforms:
-- [LinkedIn][(your-linkedin-profile)](https://www.linkedin.com/in/sagar-khanal-sharma-193251333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+-LinkedIn (https://www.linkedin.com/in/sagar-khanalsharma193251333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email] sharmasagar0009@gmail.com
 
 ## 🔧 Technologies & Tools
-- Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, VSCode
+- Languages:C,C++ Java(learning)
+- Tools: Git, VSCode
 
 
 
