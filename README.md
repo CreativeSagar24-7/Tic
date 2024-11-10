@@ -13,6 +13,9 @@ I believe in continuous learning and growth. I strive to maintain a balance betw
 ## 🔧 Technologies & Tools
 - Languages:C,C++,Java(learning)
 - Tools: Git, VSCode
+  
+## Connect
+- khanalsagar062@gmai.com
 
 
 
